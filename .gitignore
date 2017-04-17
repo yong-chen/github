@@ -1,0 +1,6 @@
+node_modules
+src/app/**/*.js
+src/app/**/*.map
+/.editorconfig
+/src/main.js.map
+/src/main.js
